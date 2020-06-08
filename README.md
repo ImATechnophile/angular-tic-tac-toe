@@ -8,10 +8,10 @@ It is just an Weekend Edutainment Project.
 
 It work's well in Angular 7
 
-##Command to run this App:
+## Command to run this App:
 * git clone https://github.com/ImATechnophile/AngularTicTacToe.git
 #inside root folder
 * npm install
 * ng serve -- aot true
 
-##Access the app at http://localhost:4200/
+## Access the app at http://localhost:4200/
