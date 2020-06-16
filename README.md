@@ -1,4 +1,4 @@
-# Tic-Tac-Toe
+# AngularTicTacToe
 
 It is just an Weekend Edutainment Project. 
 
