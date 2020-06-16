@@ -10,7 +10,7 @@ It work's well in Angular 7
 
 ## Command to run this App:
 * git clone https://github.com/ImATechnophile/AngularTicTacToe.git
-#inside root folder
+# inside root folder
 * npm install
 * ng serve -- aot true
 
