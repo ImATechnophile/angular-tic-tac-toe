@@ -2,6 +2,7 @@ import { Component, OnInit } from '@angular/core';
 import { Square } from '../square/square';
 import { ScoreService } from '../score.service';
 import { ScoreSheet } from '../scoresheet/scoreSheet';
+import {Howl, Howler} from 'howler';
 
 @Component({
   selector: 'app-board',
@@ -27,6 +28,18 @@ export class BoardComponent implements OnInit {
     [2, 4, 6]
   ];
 
+  // For backgroud music
+  sound = new Howl({
+    src: ['assets/The_High_Line.mp3'],
+    html5 : true,
+    autoplay: true,
+    loop: true
+    // volume: 0.5,
+    // onend() {
+    //   console.log('Finished!');
+    // }
+  });
+
   // Injecting ScoreService
   constructor(private scoreService: ScoreService) {}
 
@@ -35,6 +48,9 @@ export class BoardComponent implements OnInit {
     this.newGame();
     this.playerXwins = 0;
     this.playerOwins = 0;
+
+    // Play the sound.
+    this.sound.play();
   }
 
   newGame() {
