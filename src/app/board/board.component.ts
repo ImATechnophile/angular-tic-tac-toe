@@ -29,15 +29,21 @@ export class BoardComponent implements OnInit {
   ];
 
   // For backgroud music
-  sound = new Howl({
-    src: ['assets/The_High_Line.mp3'],
-    html5 : true,
-    autoplay: true,
-    loop: true
+  move = new Howl({
+    src: ['assets/move.mp3'],
+    html5 : true
+    // autoplay: true,
+    // loop: true
     // volume: 0.5,
     // onend() {
     //   console.log('Finished!');
     // }
+  });
+
+  // for success
+  success = new Howl({
+    src: ['assets/success.mp3'],
+    html5 : true
   });
 
   // Injecting ScoreService
@@ -48,10 +54,16 @@ export class BoardComponent implements OnInit {
     this.newGame();
     this.playerXwins = 0;
     this.playerOwins = 0;
-
-    // Play the sound.
-    this.sound.play();
   }
+
+  fireMove() {
+      // Play the sound.
+      this.move.play();
+  }
+  fireSuccess() {
+    // Play the sound.
+    this.success.play();
+}
 
   newGame() {
     // Resetting Game
@@ -60,6 +72,7 @@ export class BoardComponent implements OnInit {
     this.winner = null;
     this.isDraw = false;
     this.disable = false;
+    this.fireSuccess();
   }
 
   get playerMarker() {
@@ -67,6 +80,7 @@ export class BoardComponent implements OnInit {
   }
 
   makeMove(index: number) {
+    this.fireMove();
     // Checks whether square is empty
     if (this.squares[index] === null) {
       // Replaces empty square with playerMarker
