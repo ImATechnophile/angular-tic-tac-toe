@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1592684376226,
+  "timestamp": 1592688445443,
   "index": "https://imatechnophile.github.io/AngularTicTacToe/index.html",
   "assetGroups": [
     {
@@ -43,14 +43,14 @@
   "dataGroups": [],
   "hashTable": {
     "https://imatechnophile.github.io/AngularTicTacToe/assets/beep_2012_sms.mp3": "965f6f7f8ef55d1324f90bd0ca764894f19a4e95",
-    "https://imatechnophile.github.io/AngularTicTacToe/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
-    "https://imatechnophile.github.io/AngularTicTacToe/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
-    "https://imatechnophile.github.io/AngularTicTacToe/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
-    "https://imatechnophile.github.io/AngularTicTacToe/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
-    "https://imatechnophile.github.io/AngularTicTacToe/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
-    "https://imatechnophile.github.io/AngularTicTacToe/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
-    "https://imatechnophile.github.io/AngularTicTacToe/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
-    "https://imatechnophile.github.io/AngularTicTacToe/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://imatechnophile.github.io/AngularTicTacToe/assets/icons/icon-128x128.png": "773da202879a12f02b89371ed27990b8237175d5",
+    "https://imatechnophile.github.io/AngularTicTacToe/assets/icons/icon-144x144.png": "8c4f559a18479b100c1e09773f6de7bf7c32183c",
+    "https://imatechnophile.github.io/AngularTicTacToe/assets/icons/icon-152x152.png": "7db470d5191f232b4f57dcaa27cdf5aad08e1d9f",
+    "https://imatechnophile.github.io/AngularTicTacToe/assets/icons/icon-192x192.png": "19387a30b2908b132784ee34529c42ba0d1e09e6",
+    "https://imatechnophile.github.io/AngularTicTacToe/assets/icons/icon-384x384.png": "f2cc2b53c95c7770b8e1db535ef4e7d62ccd71f4",
+    "https://imatechnophile.github.io/AngularTicTacToe/assets/icons/icon-512x512.png": "b7d720cf438d5d52b566da128147314fd8eaf1a8",
+    "https://imatechnophile.github.io/AngularTicTacToe/assets/icons/icon-72x72.png": "fe464ffcdcf46d15e5a155c1417b039852b7a974",
+    "https://imatechnophile.github.io/AngularTicTacToe/assets/icons/icon-96x96.png": "cc06aa669ae1ca3ee6d9e884a0ded49d0a0b8995",
     "https://imatechnophile.github.io/AngularTicTacToe/assets/move.mp3": "270c1abef5abeba72a4fce01494ff339365f36d5",
     "https://imatechnophile.github.io/AngularTicTacToe/assets/success.mp3": "6f4d8c5e0b946575ef9c612802cd31883fe64a6b",
     "https://imatechnophile.github.io/AngularTicTacToe/favicon.ico": "1169c80e668bd7bed48190e66a8c04676201d13d",
