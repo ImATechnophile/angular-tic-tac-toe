@@ -10,6 +10,8 @@ import { MatButtonModule } from '@angular/material/button';
 import { FlexLayoutModule } from '@angular/flex-layout';
 import { MatTableModule } from '@angular/material/table';
 import { ScoresheetComponent } from './scoresheet/scoresheet.component';
+import { ServiceWorkerModule } from '@angular/service-worker';
+import { environment } from '../environments/environment';
 
 @NgModule({
   declarations: [
@@ -24,7 +26,8 @@ import { ScoresheetComponent } from './scoresheet/scoresheet.component';
     BrowserAnimationsModule,
     MatButtonModule,
     FlexLayoutModule,
-    MatTableModule
+    MatTableModule,
+    ServiceWorkerModule.register('ngsw-worker.js', { enabled: environment.production })
   ],
   providers: [],
   bootstrap: [AppComponent]
