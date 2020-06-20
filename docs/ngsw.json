@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1592682898811,
+  "timestamp": 1592683445576,
   "index": "https://imatechnophile.github.io/AngularTicTacToe/index.html",
   "assetGroups": [
     {
@@ -10,8 +10,8 @@
       "urls": [
         "https://imatechnophile.github.io/AngularTicTacToe/favicon.ico",
         "https://imatechnophile.github.io/AngularTicTacToe/index.html",
-        "https://imatechnophile.github.io/AngularTicTacToe/main-es2015.d0bace0e6abfcbb897ac.js",
-        "https://imatechnophile.github.io/AngularTicTacToe/main-es5.6b0ea2412da20069ff98.js",
+        "https://imatechnophile.github.io/AngularTicTacToe/main-es2015.43673b4ab324b0107a92.js",
+        "https://imatechnophile.github.io/AngularTicTacToe/main-es5.fd5418b46c6b8aa98227.js",
         "https://imatechnophile.github.io/AngularTicTacToe/polyfills-es2015.6f582e2dd084a9eb31fe.js",
         "https://imatechnophile.github.io/AngularTicTacToe/polyfills-es5.6fc79adba80cae5fa417.js",
         "https://imatechnophile.github.io/AngularTicTacToe/runtime-es2015.aa36e2789a7b6e5e7675.js",
@@ -54,9 +54,9 @@
     "https://imatechnophile.github.io/AngularTicTacToe/assets/move.mp3": "270c1abef5abeba72a4fce01494ff339365f36d5",
     "https://imatechnophile.github.io/AngularTicTacToe/assets/success.mp3": "6f4d8c5e0b946575ef9c612802cd31883fe64a6b",
     "https://imatechnophile.github.io/AngularTicTacToe/favicon.ico": "1169c80e668bd7bed48190e66a8c04676201d13d",
-    "https://imatechnophile.github.io/AngularTicTacToe/index.html": "c0bf4a430250c3d71d62bc9623e7ec62eb5081d1",
-    "https://imatechnophile.github.io/AngularTicTacToe/main-es2015.d0bace0e6abfcbb897ac.js": "b31f0b86eabc95021ea1741dbef9875e31540ba1",
-    "https://imatechnophile.github.io/AngularTicTacToe/main-es5.6b0ea2412da20069ff98.js": "6dcf4ebd10e1bea8892d064e449de576740068f0",
+    "https://imatechnophile.github.io/AngularTicTacToe/index.html": "e9ebb602b6d3ca2912111875af9af785d298ed71",
+    "https://imatechnophile.github.io/AngularTicTacToe/main-es2015.43673b4ab324b0107a92.js": "3a4478700f05292e11a68a91889c1124e354684f",
+    "https://imatechnophile.github.io/AngularTicTacToe/main-es5.fd5418b46c6b8aa98227.js": "27e6c5a123b166cfa0fdda992efe08d2198d4774",
     "https://imatechnophile.github.io/AngularTicTacToe/polyfills-es2015.6f582e2dd084a9eb31fe.js": "ffe5f8cfa6eae51a7a95e8363b303b0c44ade852",
     "https://imatechnophile.github.io/AngularTicTacToe/polyfills-es5.6fc79adba80cae5fa417.js": "e8b3f6682f6dc8ae349eb9c2e31f699ada3b8a69",
     "https://imatechnophile.github.io/AngularTicTacToe/runtime-es2015.aa36e2789a7b6e5e7675.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
