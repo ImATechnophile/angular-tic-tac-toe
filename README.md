@@ -1,4 +1,4 @@
-# AngularTicTacToe [Click here to see our app in action](https://imatechnophile.github.io/AngularTicTacToe/)
+# angular-tic-tac-toe [Click here to see our app in action](https://imatechnophile.github.io/angular-tic-tac-toe/)
 
 It is just an Weekend Edutainment Project. 
 
@@ -9,7 +9,7 @@ It is just an Weekend Edutainment Project.
 It work's well in Angular 7
 
 ## Command to run this App:
-* git clone https://github.com/ImATechnophile/AngularTicTacToe.git
+* git clone https://github.com/ImATechnophile/angular-tic-tac-toe.git
 # inside root folder
 * npm install
 * ng serve -- aot true
